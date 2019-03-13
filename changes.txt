@@ -1,0 +1,58 @@
+1.4
+- Added WooCommerce 3.4.4 compatibility
+- Added compatibility with Gutenberg plugin
+- Updated Visual Composer to 5.5.2
+- Updated Revolution Slider to 5.4.8
+- Fixed portfolio archive page
+- Fixed mobile menu title rendering
+- Improved Mikado Product List - Simple shortcode
+
+1.3
+- Added WooCommerce 3.3.3 compatibility
+- Added compatibility with PHP 7.2 
+- Updated Visual Composer to 5.4.7
+- Updated Revolution Slider to 5.4.7
+- Updated Envato Market to 2.0.0
+
+1.2
+- Added WooCommerce 3.2.5 compatibility 
+- Added Envato Market plugin as required
+- Added recommended plugins (WooCommerce and Contact Form 7)
+- Updated Visual Composer to 5.4.5
+- Updated Revolution Slider to 5.4.6.3.1
+- Updated Mikado Core to 1.1
+- Fixed menu misalignment on Google Chrome
+- Fixed menu import problem
+- Improved import for Revolution slider slides
+
+1.1.3
+- Updated Visual Composer to 5.2.1
+- Updated Revolution Slider to 5.4.5.2
+- Updated Mikado Membership to 1.1
+- Updated Mikado Core to 1.0.1
+- Fixed potential security issue when saving theme options
+- Fixed thumbnails responsiveness on single shop pages
+- Fix Portfolio Slider disabling navigation issue
+- Fixed filter dropdown overlapping on 'Product List' shortcode
+- Fixed pretty photo functionality on Mikado Image Slider shortcode
+- Fixed Add To Cart functionality on product lists
+- Fixed problem with product list shortode when category doesn't exist
+
+1.1.2
+- Fixed lightbox functionality on shop single pages
+- Fixed product list masonry layout options
+- Fixed blog functions issue
+- Fixed title padding issue
+
+1.1.1
+- Fixed YITH Quicklook layout
+- Fixed variable product quantity selection bug
+- Fixed product review layout bug
+
+1.1
+- Added support for WooCommerce 3+
+- Updated Visaual Composer to 5.1.1
+- Updated Mikado Core to 1.0.1
+- Fixed loading of whishlist modules
+- Fixed Process shortcode backend appearance
+- Fixed whishlist layout bug on product carousel

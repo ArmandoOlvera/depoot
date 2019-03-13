@@ -1,0 +1,1 @@
+<p class="mkd-blog-no-posts"><?php esc_html_e('Sorry, no posts matched your criteria.', 'depot'); ?></p>

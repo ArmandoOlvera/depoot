@@ -1,0 +1,1 @@
+<?php do_action('depot_mikado_get_footer_template');
